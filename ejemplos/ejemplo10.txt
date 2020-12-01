@@ -1,0 +1,23 @@
+// Generar un programa que permita iterar 4 veces 
+// use el ciclo Para
+// en cada iteración debe ingresar nombre, apellido y edad de una persona
+// Los datos por ingresados por teclado serán:
+// Tammy Franklin 21
+// Andrea Duarte 20
+// William Richardson 19
+// Ana Silva 18
+// Se debe usar una sentencia Escribir que permita imprimir el siguiente
+// reporte
+// Nombre: Tammy
+// Nombre: Andrea
+// Nombre: William 
+// Nombre: Ana
+
+// Apellido: Franklin
+// Apellido: Duarte
+// Apellido: Richardson
+// Apellido: Silva
+
+// Promedio de edades: 19.5
+
+

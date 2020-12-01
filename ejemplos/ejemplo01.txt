@@ -1,0 +1,9 @@
+1. Inicio
+2. edad, x(20)[{a-z}]
+3. edad2, x(20)[{a-z}]
+4. Escribir "Ingrese su edad"
+5. Leer edad // 30
+6. Escribir "Ingrese su edad2"
+7. Leer edad2 // 20
+8. Escribir "Edades "+ edad+edad2 +" ."
+9. Fin

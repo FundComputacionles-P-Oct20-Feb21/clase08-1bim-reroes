@@ -1,0 +1,9 @@
+// Generar la serie
+// 5
+// 10
+// 15
+// 20
+// 25
+// 30
+// Debe usar la operación aritmética MOD y un ciclo
+// repetitivo Para

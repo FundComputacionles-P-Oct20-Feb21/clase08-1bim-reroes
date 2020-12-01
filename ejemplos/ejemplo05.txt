@@ -1,0 +1,31 @@
+1. Inicio
+2.  op, i[0,n]
+3.  valor1, i[0,n]
+4.  valor2, i[0,n]
+5.  resultado, i[-n, n]
+6.  tipo, x(20)[{a-z},{BS}, {A-Z}]
+7.  Escribir "Ingrese el primer valor la operación"
+8.  Leer valor1
+9.  Escribir "Ingrese el segundo valor la operación"
+10. Leer valor2
+11. Escribir "Selecciones la operación que desea realizar"
+12. Escribir "Ingrese 1 para sumar"
+13. Escribir "Ingrese 2 para restar"
+14. Escribir "Ingrese 3 para multiplicar"
+15. Leer op // 4
+16. Dependiendo_De(op) Haga
+17.    Opcion 1 // si op es igual a 1; se realiza las instrucciones
+18.      resultado <-- valor1 + valor2
+19.      tipo <-- "suma" 
+20.   Fin
+21.   Opcion 2
+22.      resultado <-- valor1 - valor2
+23.      tipo <-- "resta" 
+24.   Fin
+25.   Opcion 3
+26.      resultado <-- valor1 * valor2
+27.      tipo <-- "multiplicacion" 
+28.   Fin
+29. Fin_Dependiendo_De
+30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
+31. Fin
